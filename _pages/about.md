@@ -21,11 +21,13 @@ Network pruning is a successful technique to learn a compact network model. I wo
 
 * Our theory also indicates the importance of fine-tuning the pruned network instead of retraining it.
 
-**Mao Ye**<sup> * </sup>, Lemeng Wu<sup> * </sup> and Qiang Liu. Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithms. **NeurIPS 2020**
+**Mao Ye**<sup> * </sup>, Lemeng Wu<sup> * </sup> and Qiang Liu. Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithms. **NeurIPS 2020** (Coming soon)
 
-**Mao Ye**, Chengyue Gong<sup> * </sup>, Lizhen Nie<sup> * </sup>, Denny Zhou, Adam Klivans and Qiang Liu. Good Subnetworks Provably Exists: Pruning via Greedy Forward Selection. **ICML 2020**
+**Mao Ye**, Chengyue Gong<sup> * </sup>, Lizhen Nie<sup> * </sup>, Denny Zhou, Adam Klivans and Qiang Liu. [Good Subnetworks Provably Exists: Pruning via Greedy Forward Selection](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf). **ICML 2020**
 
-
+Certified Robustness
+-----
+We propose a 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
