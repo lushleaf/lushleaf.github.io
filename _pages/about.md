@@ -12,7 +12,7 @@ Hi welcome to my homepage! I am a second year CS PhD student at The University o
 Selected Research Projects
 ======
 
-My research interest includes efficient deep learning model, certified adversarial robustness, causal inference and Monte Carlo method.
+I have board research interests including efficient deep learning model, certified adversarial robustness, feature selection and Monte Carlo method.
     
 Learning Efficient Neural Network 
 ------
