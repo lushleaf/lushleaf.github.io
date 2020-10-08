@@ -21,9 +21,9 @@ Network pruning is a successful technique to learn a compact network model. I wo
 
 * Our theory also indicates the importance of fine-tuning the pruned network instead of retraining it.
 
-***Mao Ye**<sup> * </sup>, Lemeng Wu<sup> * </sup> and Qiang Liu. Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithms. **NeurIPS 2020** (Coming soon)*
+***Mao Ye***<sup> * </sup>*, Lemeng Wu<sup> * </sup> and Qiang Liu. Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithms.* ***NeurIPS 2020*** *(Coming soon)*
 
-***Mao Ye**, Chengyue Gong<sup> * </sup>, Lizhen Nie<sup> * </sup>, Denny Zhou, Adam Klivans and Qiang Liu. [Good Subnetworks Provably Exists: Pruning via Greedy Forward Selection](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf). **ICML 2020***
+***Mao Ye***, *Chengyue Gong<sup> * </sup>, Lizhen Nie<sup> * </sup>, Denny Zhou, Adam Klivans and Qiang Liu. [Good Subnetworks Provably Exists: Pruning via Greedy Forward Selection](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf).* ***ICML 2020***
 
 Certified Robustness
 -----
