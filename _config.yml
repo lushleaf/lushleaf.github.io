@@ -11,9 +11,9 @@ title                    : "Mao Ye"
 title_separator          : "-"
 name                     : &name "Mao Ye"
 description              : &description "I am a second year PhD student at The University of Texas, Austin."
-url                      : https://lushleaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://maoye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lushleaf.github.io"
+repository               : "maoye.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
