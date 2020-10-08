@@ -16,9 +16,14 @@ Selected Research Projects
 Learning Efficient Neural Network 
 ------
 Network pruning is a successful technique to learn a compact network model. I work on strong theory-oriented pruning algorithm based on greedy optimization. We are able to show that
-* Small network learned by our algorithm is guaranteed to be better than small network learned by direct training. ---- This also provides strong justification of the pruning paradigm. 
+* Small network learned by our algorithm is guaranteed to be better than small network learned by direct training ---- This also provides strong justification of the pruning paradigm. 
 
-Mao Ye<sup>*</sup>, Lemeng Wu<sup>*</sup> and Qiang Liu. Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithms. Neurips 2020
+* Our theory also indicates the importance of fine-tuning the pruned network instead of retraining it.
+
+**Mao Ye**<sup> * </sup>, Lemeng Wu<sup> * </sup> and Qiang Liu. Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithms. **NeurIPS 2020**
+
+**Mao Ye**, Chengyue Gong<sup> * </sup>, Lizhen Nie<sup> * </sup>, Denny Zhou, Adam Klivans and Qiang Liu. Good Subnetworks Provably Exists: Pruning via Greedy Forward Selection. **ICML 2020**
+
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
