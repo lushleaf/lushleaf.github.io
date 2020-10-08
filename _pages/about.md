@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi
+Hi welcome to my homepage! I am a second year CS PhD student at The University of Texas, Austin. I work with Prof. Qiang Liu. I got my bachelor's degree in Mathematics at Zhejiang University in 2017 and I got my master's degree in Statistics at Purdue University in 2019.
+
+I am interested in 
 
 A data-driven personal website
 ======
