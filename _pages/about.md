@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi welcome to my homepage! I am a second year CS PhD student at The University of Texas, Austin. I work with Prof. Qiang Liu. I got my bachelor's degree in Mathematics at Zhejiang University in 2017 and I got my master's degree in Statistics at Purdue University in 2019.
-
-My research interest includes efficient deep learning model, adversarial robustness, causal inference and Monte Carlo method.
+Hi welcome to my homepage! I am a second year CS PhD student at The University of Texas, Austin. I work with Prof. [Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html). I got my bachelor's degree in Mathematics at Zhejiang University in 2017 and I got my master's degree in Statistics at Purdue University in 2019. During the summer of 2020, I was a Machine Learning research intern at Facebook.
 
 Selected Research Projects
 ======
+
+My research interest includes efficient deep learning model, certified adversarial robustness, causal inference and Monte Carlo method.
+    
 Learning Efficient Neural Network 
 ------
 Network pruning is a successful technique to learn a compact network model. I work on strong theory-oriented pruning algorithm based on greedy optimization. We are able to show that
