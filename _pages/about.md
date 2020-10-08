@@ -17,9 +17,8 @@ My research interest includes efficient deep learning model, certified adversari
 Learning Efficient Neural Network 
 ------
 Network pruning is a successful technique to learn a compact network model. I work on strong theory-oriented pruning algorithm based on greedy optimization. We are able to show that
-* Small network learned by our algorithm is guaranteed to be better than small network learned by direct training ---- This also provides strong justification of the pruning paradigm. 
-
-* Our theory also indicates the importance of fine-tuning the pruned network instead of retraining it.
+* Small network learned by our algorithm is guaranteed to be better than small network learned by direct training.
+* Theoretically, it is importance to fine-tune the pruned network instead of retrain it.
 
 ***Mao Ye***<sup> * </sup>*, Lemeng Wu<sup> * </sup> and Qiang Liu. Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithms.* ***NeurIPS 2020*** *(Coming soon)*
 
