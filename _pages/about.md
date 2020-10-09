@@ -24,9 +24,14 @@ Network pruning is a successful technique to learn a compact network model. I wo
 
 ***Mao Ye***, *Chengyue Gong<sup> * </sup>, Lizhen Nie<sup> * </sup>, Denny Zhou, Adam Klivans and Qiang Liu. [Good Subnetworks Provably Exists: Pruning via Greedy Forward Selection](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf).* ***ICML 2020***
 
+
 Certified Robustness
 -----
-We propose a 
+We propose a functional constraint optimization framework for cerfified adversarial defense using random smoothing. A general class of smoothing distribution is proposed for image classification task. And a special discrete smoothing distribution is proposed for text classification.
+
+*Dinghuai Zhang<sup> * </sup>, **Mao Ye**<sup> * </sup>, Chengyue Gong<sup> * </sup> and Qiang Liu. [Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/pdf/2002.09169.pdf)* ***Neurips 2020***
+
+***Mao Ye***<sup> * </sup>, *Chengyue Gong<sup> * </sup> and Qiang Liu. [SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions](https://www.aclweb.org/anthology/2020.acl-main.317.pdf)* ***ACL 2020***
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
