@@ -10,7 +10,7 @@ redirect_from:
 Conference Papers
 ------
 
-[10] **Mao Ye**<sup> * </sup>, Lemeng Wu<sup> * </sup> and Qiang Liu. [Greedy Optimization Provably Wins the Lottery: Logarithmic Number of Winning Tickets is Enough.](https://arxiv.org/pdf/2010.15969.pdf) *NeurIPS 2020* (Coming soon)
+[10] **Mao Ye**<sup> * </sup>, Lemeng Wu<sup> * </sup> and Qiang Liu. [Greedy Optimization Provably Wins the Lottery: Logarithmic Number of Winning Tickets is Enough.](https://arxiv.org/pdf/2010.15969.pdf) *NeurIPS 2020*
 
 [9] Dinghuai Zhang<sup> * </sup>, **Mao Ye**<sup> * </sup>, Chengyue Gong<sup> * </sup> and Qiang Liu. [Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework.](https://arxiv.org/pdf/2002.09169.pdf) *NeurIPS 2020*
 
