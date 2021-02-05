@@ -12,7 +12,13 @@ Hi welcome to my homepage! I am a second year CS PhD student at The University o
 Selected Research Projects
 ======
 
-I have board research interests including efficient deep learning model, certified adversarial robustness, feature selection and Monte Carlo method.
+I have board research interests including efficient deep learning model, causal inference, certified adversarial robustness, feature selection and Monte Carlo method.
+
+**Causal Inference**
+-----
+I develop network architecture and optimization techniques for treatment estimation using deep neural network.
+
+Lezhen Nie<sup> * </sup>, **Mao Ye**<sup> * </sup>, Qiang Liu and Dan Nicolae. [Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects](https://openreview.net/pdf?id=RmB-88r9dL) *ICLR 2021* <font color='red'> (Oral, accept rate 1.77%) </font>
     
 Learning Efficient Neural Network
 ------
@@ -49,7 +55,7 @@ Sampling method is important for Bayesian inference and RL. We develop a special
 
 Services
 ======
-Conference reviewer: ICML, NeurIPS, ICLR
+Conference reviewer: ICML, NeurIPS, ICLR, CVPR
 
 Journal reviewer: JMLR, Canadian journal of statistics
 
