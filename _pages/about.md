@@ -18,8 +18,10 @@ I have board research interests including efficient deep learning model, causal 
 -----
 I develop network architecture and optimization techniques for treatment estimation using deep neural network.
 
-Lezhen Nie<sup> * </sup>, **Mao Ye**<sup> * </sup>, Qiang Liu and Dan Nicolae. [Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects](https://openreview.net/pdf?id=RmB-88r9dL) *ICLR 2021* <font color='red'> (Oral, accept rate 1.77%) </font>
+Lezhen Nie<sup> * </sup>, **Mao Ye**<sup> * </sup>, Qiang Liu and Dan Nicolae. [Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects.](https://openreview.net/pdf?id=RmB-88r9dL) *ICLR 2021* <font color='red'> (Oral, accept rate 1.77%) </font>
     
+<span style="color:orange;">Word up</span>
+
 Learning Efficient Neural Network
 ------
 
@@ -28,9 +30,9 @@ Network pruning is a successful technique to learn a compact network model. I wo
 * Theoretically, it is importance to fine-tune the pruned network instead of retrain it.
 
 **Mao Ye**<sup> * </sup>, Lemeng Wu<sup> * </sup> and Qiang Liu. [Greedy Optimization Provably Wins the Lottery:
-Logarithmic Number of Winning Tickets is Enough](https://arxiv.org/pdf/2010.15969.pdf) *NeurIPS 2020*
+Logarithmic Number of Winning Tickets is Enough.](https://arxiv.org/pdf/2010.15969.pdf) *NeurIPS 2020*
 
-**Mao Ye**, Chengyue Gong<sup> * </sup>, Lizhen Nie<sup> * </sup>, Denny Zhou, Adam Klivans and Qiang Liu. [Good Subnetworks Provably Exists: Pruning via Greedy Forward Selection.](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf). *ICML 2020*
+**Mao Ye**, Chengyue Gong<sup> * </sup>, Lizhen Nie<sup> * </sup>, Denny Zhou, Adam Klivans and Qiang Liu. [Good Subnetworks Provably Exists: Pruning via Greedy Forward Selection.](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf) *ICML 2020*
 
 
 Certified Robustness
