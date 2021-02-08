@@ -18,7 +18,7 @@ I have board research interests including efficient deep learning model, causal 
 -----
 I develop network architecture and optimization techniques for treatment estimation using deep neural network.
 
-Lezhen Nie<sup> * </sup>, **Mao Ye**<sup> * </sup>, Qiang Liu and Dan Nicolae. [Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects.](https://openreview.net/pdf?id=RmB-88r9dL) *ICLR 2021* (**Oral Presentation**, accept rate 1.77%)
+Lizhen Nie<sup> * </sup>, **Mao Ye**<sup> * </sup>, Qiang Liu and Dan Nicolae. [Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects.](https://openreview.net/pdf?id=RmB-88r9dL) *ICLR 2021* (**Oral Presentation**, accept rate 1.77%)
 
 Learning Efficient Neural Network
 ------
