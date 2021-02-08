@@ -9,6 +9,7 @@ redirect_from:
 
 Conference Papers
 ------
+[11] Lizhen Nie<sup> * </sup>, **Mao Ye**<sup> * </sup>, Qiang Liu and Dan Nicolae. [Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects.](https://openreview.net/pdf?id=RmB-88r9dL) *ICLR 2021* (**Oral Presentation**, accept rate 1.77%)
 
 [10] **Mao Ye**<sup> * </sup>, Lemeng Wu<sup> * </sup> and Qiang Liu. [Greedy Optimization Provably Wins the Lottery: Logarithmic Number of Winning Tickets is Enough.](https://arxiv.org/pdf/2010.15969.pdf) *NeurIPS 2020*
 
