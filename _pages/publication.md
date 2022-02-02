@@ -9,7 +9,7 @@ redirect_from:
 
 Conference Papers
 ------
-[13] **Mao Ye**, Chenxi Liu, Maoqing Yao, Weiyue Wang, Zhaoqi Leng, Charles R. Qi and Dragomir Anguelov. Multi-Class 3D Object Detection with Single-Class Supervision *ICRA 2022*
+[13] **Mao Ye**, Chenxi Liu, Maoqing Yao, Weiyue Wang, Zhaoqi Leng, Charles R. Qi and Dragomir Anguelov. Multi-Class 3D Object Detection with Single-Class Supervision. *ICRA 2022*
 
 [12] Chengyue Gong, **Mao Ye** and Qiang Liu. [Argmax Centroids: with Applications to
 Multi-domain Learning.](https://papers.nips.cc/paper/2021/file/38eb982ee635354d3febf457beeee736-Paper.pdf) *NeurIPS 2021*
