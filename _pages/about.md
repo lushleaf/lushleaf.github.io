@@ -14,6 +14,13 @@ Selected Research Projects
 
 I have board research interests including efficient deep learning model, causal inference, certified adversarial robustness, feature selection and Monte Carlo method.
 
+**3D Detection**
+-----
+I studied 3D object detection when each image is partially labeled.
+
+**Mao Ye**, Chenxi Liu, Maoqing Yao, Weiyue Wang, Zhaoqi Leng, Charles R. Qi and Dragomir Anguelov. Multi-Class 3D Object Detection with Single-Class Supervision.) *ICRA 2022*
+
+
 **Causal Inference**
 -----
 I develop network architecture and optimization techniques for treatment estimation using deep neural network.
