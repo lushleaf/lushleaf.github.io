@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi welcome to my homepage! I am a second year CS PhD student at The University of Texas, Austin. I work with Prof. [Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html). I got my bachelor's degree in Mathematics at Zhejiang University in 2017 and I got my master's degree in Statistics at Purdue University in 2019. During the summer of 2020, I was a Machine Learning research intern at Facebook.
+Hi welcome to my homepage! I am a second year CS PhD student at The University of Texas, Austin. I work with Prof. [Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html). I got my bachelor's degree in Mathematics at Zhejiang University in 2017 and I got my master's degree in Statistics at Purdue University in 2019. During the summer of 2021, I was a Machine Learning research intern at Waymo and during the summer of 2020, I was a Machine Learning research intern at Meta.
 
 Selected Research Projects
 ======
