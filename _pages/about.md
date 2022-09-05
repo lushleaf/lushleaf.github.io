@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi welcome to my homepage! I am a second year CS PhD student at The University of Texas, Austin. I work with Prof. [Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html). I got my bachelor's degree in Mathematics at Zhejiang University in 2017 and I got my master's degree in Statistics at Purdue University in 2019. During the summer of 2021, I was a Machine Learning research intern at Waymo and during the summer of 2020, I was a Machine Learning research intern at Meta.
+Hi welcome to my homepage! I am a forth year CS PhD student at The University of Texas, Austin. I work with Prof. [Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html). I got my bachelor's degree in Mathematics at Zhejiang University in 2017 and I got my master's degree in Statistics at Purdue University in 2019. I was a AI research intern at Cruise during the summer of 2022, and machine learning research intern at Waymo during the summer of 2021, and machine learning research intern at Meta at 2020.
 
 Selected Research Projects
 ======
@@ -48,6 +48,12 @@ Dinghuai Zhang<sup> * </sup>, **Mao Ye**<sup> * </sup>, Chengyue Gong<sup> * </s
 
 **Mao Ye**<sup> * </sup>, Chengyue Gong<sup> * </sup> and Qiang Liu. [SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions.](https://www.aclweb.org/anthology/2020.acl-main.317.pdf) *ACL 2020*
 
+Uncertainty Estimation
+-----
+I develop simple surrogate loss for imporving the particle quality in bootstrap.
+
+**Mao Ye** and Qiang Liu. [Centroid Approximation for Bootstrap: Improving Particle Quality at Inference.](https://arxiv.org/pdf/2110.08720.pdf) *ICML 2022*
+
 Feature Selection
 -----
 Selecting useful feature is important for ML system. We develop a new drop-out-one loss that accurately detects useful features for difficult task with highly correlated features. Our approach is very easy to implement and is guaranteed to select all useful features and discard all useless features when there is enough data.
@@ -64,6 +70,6 @@ Services
 ======
 Conference reviewer: ICML, NeurIPS, ICLR, CVPR
 
-Journal reviewer: JMLR, Canadian journal of statistics
+Journal reviewer: JMLR, TAMPI, Machine Learning, Neurocomputing, Canadian journal of statistics
 
 
