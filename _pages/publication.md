@@ -9,6 +9,13 @@ redirect_from:
 
 Conference Papers
 ------
+
+[21] **Mao Ye**, Lemeng Wu and Qiang Liu. [First Hitting Diffusion Models.](https://arxiv.org/pdf/2209.01170.pdf) *NeurIPS 2022*
+
+[20] **Mao Ye**<sup> * </sup>, Bo Liu<sup> * </sup>, Stephen Wright and Qiang Liu. BOME! Bilevel Optimization Made Easy: A Simple First-Order Approach. *NeurIPS 2022*
+
+[19] Lemeng Wu, Chengyue Gong, Xingchao Liu, **Mao Ye** and Qiang Liu. [Diffusion-based Molecule Generation with Informative Prior Bridges.](https://arxiv.org/pdf/2209.00865.pdf) *NeurIPS 2022*
+
 [18] **Mao Ye** and Qiang Liu. [Centroid Approximation for Bootstrap: Improving Particle Quality at Inference.](https://arxiv.org/pdf/2110.08720.pdf) *ICML 2022*
 
 [17] **Mao Ye** and Qiang Liu. [Pareto Navigation Gradient Descent: a First-Order Algorithm for Optimization in Pareto Set.](https://arxiv.org/pdf/2110.08713.pdf) *UAI 2022*
