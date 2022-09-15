@@ -14,6 +14,20 @@ Selected Research Projects
 
 I have board research interests including efficient deep learning model, causal inference, certified adversarial robustness, feature selection and Monte Carlo method.
 
+**Generative Diffusion Model**
+-----
+Improved diffusion bridge for learning distribution on structured domain. 
+
+**Mao Ye**, Lemeng Wu and Qiang Liu. First Hitting Diffusion Models. *NeurIPS 2022*
+
+
+**Bi-level Optimization**
+-----
+A simple purely first-order gradient algorithm for Bilevel optimization without convexity assumption for both upper and lower problems.
+
+**Mao Ye**<sup> * </sup>, Bo Liu<sup> * </sup>, Stephen Wright and Qiang Liu. BOME! Bilevel Optimization Made Easy: A Simple First-Order Approach. *NeurIPS 2022*
+
+
 **3D Detection**
 -----
 I studied 3D object detection when each image is partially labeled.
