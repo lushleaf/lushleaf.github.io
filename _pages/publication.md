@@ -10,9 +10,13 @@ redirect_from:
 Conference Papers
 ------
 
-[21] **Mao Ye**, Lemeng Wu and Qiang Liu. [First Hitting Diffusion Models.](https://arxiv.org/pdf/2209.01170.pdf) *NeurIPS 2022*
+[23] **Mao Ye**, Gregory P. Meyer, Zaiwei Zhang, Dennis Park, Siva Karthik Mustikovela, Yuning Chai, and Eric M Wolff. [VLMine: Long-Tail Data Mining with Vision Language Models.](https://arxiv.org/pdf/2409.15486) *Arxiv*
 
-[20] **Mao Ye**<sup> * </sup>, Bo Liu<sup> * </sup>, Stephen Wright and Qiang Liu. BOME! Bilevel Optimization Made Easy: A Simple First-Order Approach. *NeurIPS 2022*
+[22] Yunhao Yang, Yuxin Hu, **Mao Ye**, Zaiwei Zhang, Zhichao Lu, Yi Xu, Ufuk Topcu, Ben Snyder. [Uncertainty-Guided Enhancement on Driving Perception System via Foundation Models](https://arxiv.org/pdf/2410.01144) *Arxiv*
+
+[21] **Mao Ye**, Lemeng Wu and Qiang Liu. [First Hitting Diffusion Models for Generating Manifold, Graph and Categorical Data.](https://proceedings.neurips.cc/paper_files/paper/2022/file/ae87d80f5a0f3ee5c5643448f9599d1b-Paper-Conference.pdf) *NeurIPS 2022*
+
+[20] **Mao Ye**<sup> * </sup>, Bo Liu<sup> * </sup>, Stephen Wright and Qiang Liu. [BOME! Bilevel Optimization Made Easy: A Simple First-Order Approach.](https://arxiv.org/pdf/2209.08709) *NeurIPS 2022*
 
 [19] Lemeng Wu, Chengyue Gong, Xingchao Liu, **Mao Ye** and Qiang Liu. [Diffusion-based Molecule Generation with Informative Prior Bridges.](https://arxiv.org/pdf/2209.00865.pdf) *NeurIPS 2022*
 
